@@ -1,0 +1,12 @@
+schemaVersion: 2.1.0
+metadata:
+  name: python-hello-world
+attributes:
+  metadata-name-field: generateName
+  metadata-name-original-value: python-hello-world
+projects:
+  - git:
+      remotes:
+        origin: 'https://github.com/nmalvankar/python-hello-world.git'
+    name: python-hello-world
+components: []
